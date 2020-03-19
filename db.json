@@ -3,42 +3,42 @@
       {
         "name": "Men 1",
         "price": "320.000",
-        "url": "./src/picture/men1.jpg"
+        "url": "src/picture/men1.jpg"
       },
       {
         "name": "Men 2",
         "price": "250.000",
-        "url": "./src/picture/men2.jpg"
+        "url": "src/picture/men2.jpg"
       },
       {
         "name": "Men 3",
         "price": "300.000",
-        "url": "./src/picture/men3.jpg"
+        "url": "src/picture/men3.jpg"
       },
       {
         "name": "Men 4",
         "price": "299.000",
-        "url": "./src/picture/men4.jpg"
+        "url": "src/picture/men4.jpg"
       },
       {
         "name": "Men 5",
         "price": "410.000",
-        "url": "./src/picture/men5.jpg"
+        "url": "src/picture/men5.jpg"
       },
       {
         "name": "Men 6",
         "price": "375.000",
-        "url": "./src/picture/men6.jpg"
+        "url": "src/picture/men6.jpg"
       },
       {
         "name": "Men 7",
         "price": "240.000",
-        "url": "./src/picture/men7.jpg"
+        "url": "src/picture/men7.jpg"
       },
       {
         "name": "Men 8",
         "price": "199.000",
-        "url": "./src/picture/men8.jpg"
+        "url": "src/picture/men8.jpg"
       }
     ],
     "women": [
