@@ -3,84 +3,84 @@
       {
         "name": "Men 1",
         "price": "320.000",
-        "url": "src/picture/men1.jpg"
+        "url": "../../picture/men1.jpg"
       },
       {
         "name": "Men 2",
         "price": "250.000",
-        "url": "src/picture/men2.jpg"
+        "url": "../../picture/men2.jpg"
       },
       {
         "name": "Men 3",
         "price": "300.000",
-        "url": "src/picture/men3.jpg"
+        "url": "../../picture/men3.jpg"
       },
       {
         "name": "Men 4",
         "price": "299.000",
-        "url": "src/picture/men4.jpg"
+        "url": "../../picture/men4.jpg"
       },
       {
         "name": "Men 5",
         "price": "410.000",
-        "url": "src/picture/men5.jpg"
+        "url": "../../picture/men5.jpg"
       },
       {
         "name": "Men 6",
         "price": "375.000",
-        "url": "src/picture/men6.jpg"
+        "url": "../../picture/men6.jpg"
       },
       {
         "name": "Men 7",
         "price": "240.000",
-        "url": "src/picture/men7.jpg"
+        "url": "../../picture/men7.jpg"
       },
       {
         "name": "Men 8",
         "price": "199.000",
-        "url": "src/picture/men8.jpg"
+        "url": "../../picture/men8.jpg"
       }
     ],
     "women": [
       {
         "name": "Women 1",
         "price": "620.000",
-        "url": "./picture/women1.jpg"
+        "url": "../../picture/women1.jpg"
       },
       {
         "name": "Women 2",
         "price": "299.000",
-        "url": "./picture/women2.jpg"
+        "url": "../../picture/women2.jpg"
       },
       {
         "name": "Women 3",
         "price": "310.000",
-        "url": "./picture/women3.jpg"
+        "url": "../../picture/women3.jpg"
       },
       {
         "name": "Women 4",
         "price": "370.000",
-        "url": "./picture/women4.jpg"
+        "url": "../../picture/women4.jpg"
       },
       {
         "name": "Women 5",
         "price": "450.000",
-        "url": "./picture/women5.jpg"
+        "url": "../../picture/women5.jpg"
       },
       {
         "name": "Women 6",
         "price": "35.000",
-        "url": "./picture/women6.jpg"
+        "url": "../../picture/women6.jpg"
       },
       {
         "name": "Women 7",
         "price": "400.000",
-        "url": "./picture/women7.jpg"
+        "url": "../../picture/women7.jpg"
       },
       {
         "name": "Women 8",
         "price": "375.000",
-        "url": "./picture/women8.jpg"
+        "url": "../../picture/women8.jpg"
       }
     ],
     "test": {
